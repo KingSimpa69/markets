@@ -1,0 +1,27 @@
+{
+    "8453": [    
+        {
+            "name":"Based Fellas",
+            "symbol":"FELLAS",
+            "image":"https://raw.githubusercontent.com/KingSimpa69/markets/img/0x217Ec1aC929a17481446A76Ff9B95B9a64F298cF.png",
+            "contracts":{
+                "nft":"0x217Ec1aC929a17481446A76Ff9B95B9a64F298cF",
+                "market":"0xeF3B31cF78659f2F893Ac14EDD77ACa11A7dF888"
+            }
+
+        }
+    ],
+    "84532": [    
+        {
+            "name":"Based Fellas",
+            "symbol":"FELLAS",
+            "image":"https://raw.githubusercontent.com/KingSimpa69/markets/img/0x217Ec1aC929a17481446A76Ff9B95B9a64F298cF.png",
+            "contracts":{
+                "nft":"0x217Ec1aC929a17481446A76Ff9B95B9a64F298cF",
+                "market":"0xc2E66287Fea9F18De9bEdcb72C3D8755c0803f06"
+            }
+
+        }
+    ]
+
+}
