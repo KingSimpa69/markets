@@ -22,7 +22,7 @@
         {
             "name":"Based OnChain Dinos",
             "symbol":"DINO",
-            "image":"https://raw.githubusercontent.com/KingSimpa69/markets/master/img/0xf8c7ef5445d8706cc8a500e86570bf323b1d06f7.png",
+            "image":"https://raw.githubusercontent.com/KingSimpa69/markets/master/img/0xf8c7ef5445d8706cc8a500e86570bf323b1d06f7.gif",
             "contracts":{
                 "nft":"0xf8c7ef5445d8706cc8a500e86570bf323b1d06f7",
                 "market":"0xbA8d2ac7eA131F3197C83A5C4a3e7518fC36D401"
