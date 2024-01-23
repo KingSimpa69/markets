@@ -9,6 +9,24 @@
                 "nft":"0x217Ec1aC929a17481446A76Ff9B95B9a64F298cF",
                 "market":"0xDf1EFc076E60444Adc720fd75A746f28F8EE28D4"
             }
+        },
+        {
+            "name":"MYSTCL",
+            "symbol":"MYSTCL",
+            "image":"https://raw.githubusercontent.com/KingSimpa69/markets/master/img/0xd1a9c44d57A728f57d6f4DF576154DD56D25F378.png",
+            "contracts":{
+                "nft":"0xd1a9c44d57A728f57d6f4DF576154DD56D25F378",
+                "market":"0xa741c8e68c05744b13faef260d0478d64d511eeb"
+            }
+        },
+        {
+            "name":"Based OnChain Dinos",
+            "symbol":"DINO",
+            "image":"https://raw.githubusercontent.com/KingSimpa69/markets/master/img/0x217Ec1aC929a17481446A76Ff9B95B9a64F298cF.png",
+            "contracts":{
+                "nft":"0xf8c7ef5445d8706cc8a500e86570bf323b1d06f7",
+                "market":"0xbA8d2ac7eA131F3197C83A5C4a3e7518fC36D401"
+            }
         }
     ]
 
