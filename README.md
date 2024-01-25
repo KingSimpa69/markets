@@ -18,9 +18,17 @@ We welcome market verification from any legitamite projects in the base communit
      ```
 
 3. **Make Changes:**
-   - Add you market and NFT project details to the JSON file.
+   - Add your market and NFT project details to the JSON file.
+   - Add your project logo to the "img" folder. Dimensions **50x50 PIXELS ONLY**
 
-4. **Commit Changes:**
+
+4. **Add files:**
+   - Add your files to the git commit.
+     ```bash
+     git add .
+     ```
+
+5. **Commit Changes:**
    - Commit your changes with the NAME OF YOUR NFT PROJECT.
      ```bash
      git commit -m "YOUR PROJECT NAME"
