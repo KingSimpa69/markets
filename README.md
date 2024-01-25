@@ -1,12 +1,12 @@
-# Based Markets
+# Based Fellas Markets
 
-This GitHub repository contains both a 'JSON' file and an 'img' folder, housing verified and trusted markets endorsed by the Based Fellas community/team.
+This GitHub repository contains both a 'JSON' file and an 'img' folder, housing verified and trusted markets and their logos endorsed by the Based Fellas community/team.
 
-## Contributing
+## Verification
 
-We welcome contributions from any legitamite projects in the base community. If you'd like to contribute, please reach out to us in our discord. Then follow the steps below:
+We welcome market verification from any legitamite projects in the base community. If you'd like to get verified, please reach out to us in our discord. Then follow the steps below:
 
-### How to Contribute
+### How to get your market verified
 
 1. **Fork the Repository:**
    - Click on the "Fork" button at the top right corner of the repository on GitHub.
@@ -18,10 +18,10 @@ We welcome contributions from any legitamite projects in the base community. If 
      ```
 
 3. **Make Changes:**
-   - Make your changes or additions to the codebase.
+   - Add you market and NFT project details to the JSON file.
 
 4. **Commit Changes:**
-   - Commit your changes with a descriptive commit message.
+   - Commit your changes with the NAME OF YOUR NFT PROJECT.
      ```bash
      git commit -m "YOUR PROJECT NAME"
      ```
@@ -33,7 +33,7 @@ We welcome contributions from any legitamite projects in the base community. If 
      ```
 
 7. **Create Pull Request:**
-   - Go to the original repository on GitHub.
+   - Go to the original market repo on GitHub.
    - You should see a prompt to create a "pull request".
    - Provide a clear PR title with the name of your project.
    - Click on "Create Pull Request."
