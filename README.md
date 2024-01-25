@@ -19,7 +19,9 @@ We welcome market verification from any legitamite projects in the base communit
 
 3. **Make Changes:**
    - Add your market and NFT project details to the JSON file.
-   - Add your project logo to the "img" folder. Dimensions **50x50 PIXELS ONLY** & **NFT SMART CONTRACT AS FILENAME**
+   - Add your project logo to the "img" folder. Dimensions 
+
+**IMPORTANT:** *50x50 PIXELS ONLY & NFT SMART CONTRACT AS FILENAME*
 
 
 4. **Add files:**
