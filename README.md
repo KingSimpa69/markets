@@ -4,7 +4,7 @@ This GitHub repository contains both a 'JSON' file and an 'img' folder, housing 
 
 ## Verification
 
-We welcome market verification from any legitamite projects in the base community. If you'd like to get verified, please reach out to us in our discord. Then follow the steps below:
+We welcome market verification from any legitamite projects in the base community. If you'd like to get verified, please reach out to us in [our discord](https://discord.com/invite/EVk2Zk2N3z). Then follow the steps below:
 
 ### How to get your market verified
 
@@ -40,7 +40,7 @@ We welcome market verification from any legitamite projects in the base communit
 
 8. **Review and Merge:**
    - We will review your PR, this may take some time.
-   - To speed up the review process, please drop into our discord and speak with us!
+   - To speed up the review process, please drop into [our discord](https://discord.com/invite/EVk2Zk2N3z) and speak with us!
    - Make any necessary changes based on our feedback.
    - Once approved, your changes will be merged and your project will be verified!
 
