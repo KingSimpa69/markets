@@ -1,6 +1,6 @@
 # Based Markets
 
-This GitHub repository contains both a 'JSON' file and an 'images' folder, housing verified and trusted markets endorsed by the Based Fellas community/team.
+This GitHub repository contains both a 'JSON' file and an 'img' folder, housing verified and trusted markets endorsed by the Based Fellas community/team.
 
 ## Contributing
 
