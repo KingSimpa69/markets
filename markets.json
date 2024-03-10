@@ -7,7 +7,7 @@
             "image":"https://raw.githubusercontent.com/KingSimpa69/markets/master/img/0x217Ec1aC929a17481446A76Ff9B95B9a64F298cF.png",
             "contracts":{
                 "nft":"0x91164C6e24CCbDFB82141Ca9EeC4EDaaE22d2114",
-                "market":"0x2FeEA8a3AF981BAB690D9BD02aa3bba3B06c0dB2"
+                "market":"0xa820804ED0193b764B5A3E899C3485bDb6b9FC8c"
             }
         },
         {
@@ -16,7 +16,7 @@
             "image":"https://raw.githubusercontent.com/KingSimpa69/markets/master/img/0xd1a9c44d57A728f57d6f4DF576154DD56D25F378.png",
             "contracts":{
                 "nft":"0xd1a9c44d57A728f57d6f4DF576154DD56D25F378",
-                "market":"0xbf15ba57490fec92af221A77BbEaD89A7fbF000b"
+                "market":"0x8a66E2e849ff002931741c5F71818cc9aE635732"
             }
         },
         {
@@ -25,7 +25,7 @@
             "image":"https://raw.githubusercontent.com/KingSimpa69/markets/master/img/0xf8c7ef5445d8706cc8a500e86570bf323b1d06f7.gif",
             "contracts":{
                 "nft":"0xf8c7ef5445d8706cc8a500e86570bf323b1d06f7",
-                "market":"0x4E7a486328e36FAaDDa67C080d8B1B341CF2D30E"
+                "market":"0x3Ce2a966DfB52a848c18D5Ab303C767d0aF1B4d8"
             }
         }
     ]
